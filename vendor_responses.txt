@@ -1,0 +1,113 @@
+Vendor Response 1: Epic Systems CorporationEpic Systems Corporation
+1979 Milky Way
+Verona, WI 53593, USA
+Email: myhealth.rfi@epic.com
+Date: October 24, 2025 Attn: MyHealth Procurement Team
+Highland Health Authority
+myhealth.procurement@hha.ca (mailto:myhealth.procurement@hha.ca) 
+Subject: Response to Highland Health Authority MyHealth Project RFI – Epic EHR Solution 
+Dear MyHealth Procurement Team, 
+Thank you for the opportunity to respond to the Highland Health Authority's (HHA) Request for Information (RFI) for the MyHealth Project. As a global leader in electronic health record (EHR) solutions, Epic Systems Corporation is excited about the potential to partner with HHA in transforming its paper-based system into a modern, integrated platform that aligns with your vision of "The best health and care for everyone, everywhere, every time." Our Epic EHR platform has empowered over 250 healthcare organizations worldwide, including large regional authorities in Canada, to deliver patient-centered care across diverse urban, rural, and remote settings. We appreciate HHA's commitment to the CARE principles and are eager to demonstrate how Epic supports courage in innovation, aspiration for quality, respect for individuals, and empathy in care delivery. Epic's response is structured to address the key areas outlined in the RFI: alignment with Canada Health Infoway's Benefits Evaluation Framework, product features, compliance with PHIPA, implementation and support, interoperability, data security, pricing, and integration with existing systems. We have extensive experience with large-scale implementations, such as our successful deployments at University Health Network (UHN) in Ontario and Alberta Health Services, serving populations exceeding 1 million with seamless regional integration. 
+1.	Alignment with Canada Health Infoway's Benefits Evaluation Framework
+Epic EHR is designed to drive measurable improvements in clinical outcomes, safety, and efficiency, directly supporting Infoway's framework (Canada Health Infoway, 2012a; 2012b). Our platform reduces medication errors by up to 50% through embedded clinical decision support tools, including real-time alerts for drug interactions and evidence-based care pathways tailored to chronic disease management—critical for HHA's diverse population. Efficiency gains include streamlined workflows that cut documentation time by 30%, enabling your 18,000 staff to focus on patient care. For safety, Epic's longitudinal patient record eliminates illegible paper entries, reducing adverse events and supporting KPIs like reduced readmissions and duplicate tests. We track these through built-in analytics, aligning with Infoway's emphasis on data-driven evaluation. 
+2.	Product Features and Customization
+Epic offers a comprehensive, modular EHR suite with features optimized for HHA's multi-site needs: 
+•	Clinical Decision Support: AI-powered tools for personalized care pathways, integrated with SNOMED CT, ICD-10-CA, CCI, and LOINC standards. 
+•	Patient Engagement: MyChart patient portal (iOS/Android app) enables secure access to records, virtual care, and collaborative decision-making, boosting engagement KPIs. 
+•	Workflow Redesign and Training: Customizable training plans for 18,000 users, including role-based simulations and ongoing clinician engagement via user forums. We provide resources like e-learning modules and on-site facilitators, requiring HHA to allocate 20-40 hours per staff for initial training. 
+•	Change Management: Phased adoption strategies with stakeholder workshops to foster buy-in, drawing from our Ontario implementations.
+Customization is flexible via low-code tools, allowing adaptation to HHA's specialized programs without disrupting core functionality. 
+3.	Compliance with PHIPA and Data Security Protocols
+Epic is fully compliant with PHIPA, PIPEDA, FIPPA, and Infoway's Privacy and Security Framework (Canada Health Infoway, 2012c). Our HITRUST-certified platform employs role-based access controls, end-to-end encryption, and comprehensive audit trails to safeguard PHI. In Canadian deployments, we conduct PHIPA-specific gap analyses and support provincial reporting requirements. Data security features include multi-factor authentication, anomaly detection AI, and zero-trust architecture, ensuring ≥99.9% uptime and HIPAA-equivalent protections. 
+4.	Implementation, Migration, and Support
+With over 55 years of experience, Epic has implemented in 20+ Canadian sites, including phased rollouts for geographically dispersed authorities. For MyHealth: 
+•	Pre-Implementation (Oct 2025–Mar 2026): Collaborative readiness assessments, data migration planning from paper (using OCR scanning and validation), and infrastructure audits. We handle 80% of migration, requiring HHA to provide legacy data exports. 
+•	Go-Live (Apr–Oct 2026): Pilot in one clinic, followed by regional rollout with downtime protocols (e.g., redundant servers, offline mobile apps) and disaster recovery (RTO <4 hours). 
+•	Stabilization/Optimization (Nov 2026–Oct 2027): Hypercare support with dedicated teams, workflow refinements based on feedback. 
+•	Long-Term: 24/7 support via Oracle Health Learning Framework, with annual updates for national integration (e.g., PrescribeIT).
+Post-implementation, we offer continuous clinician engagement through user groups and predictive analytics for system health. 
+5.	Interoperability and Integration
+Epic excels in interoperability via Care Everywhere, exchanging 20M+ records daily across EHRs (HL7 v2/v3, FHIR APIs). We integrate seamlessly with lab (LOINC), pharmacy, and imaging systems, supporting real-time data exchange for HHA's facilities. In Canada, we've enabled bi-directional sharing with non-Epic systems at UHN, aligning with Infoway's standards (Canada Health Infoway, 2020). Scalability accommodates HHA's growth, with cloud-native deployment for remote access. 
+6.	Pricing Overview
+Epic's pricing is subscription-based, tailored to HHA's scale: 
+•	Licensing/Implementation: $25M–$35M (includes customization, migration, and Phase 1 training). 
+•	Annual Maintenance/Support: $5M–$7M (18% of initial cost, covering updates and 24/7 helpdesk). 
+•	Additional: Training $2,000/user average; optional modules $1M–$3M.
+Total 10-year TCO: $80M–$100M, with ROI via 20-30% efficiency gains (Evans, 2016). Detailed quotes available post-RFI.
+Epic is committed to HHA's success and welcomes discussions to refine this proposal. We look forward to advancing your MyHealth vision. Sincerely,
+Dr. Sarah Thompson
+Vice President, Canadian Operations
+Epic Systems Corporation 
+________________________________________
+Vendor Response 2: Oracle Health (formerly Cerner Corporation)Oracle Health
+1201 S. Highway Drive
+St. Louis, MO 63132, USA
+Email: myhealth.rfi@oracle.com
+Date: October 24, 2025 Attn: MyHealth Procurement Team
+Highland Health Authority
+myhealth.procurement@hha.ca (mailto:myhealth.procurement@hha.ca) 
+Subject: Oracle Health Response to HHA MyHealth RFI – Scalable EHR for Regional Excellence 
+Dear MyHealth Procurement Team, Oracle Health (formerly Cerner) thanks Highland Health Authority (HHA) for issuing this RFI and is enthusiastic about contributing to the MyHealth Project. As a pioneer in EHR solutions serving 25% of the global market, including major Canadian health authorities like Saskatchewan Health Authority, we align seamlessly with HHA's CARE values—fostering courage through innovation, aspiration via quality tools, respect in user-centric design, and empathy in patient-focused features. Our Oracle Health EHR empowers 18,000+ clinicians across diverse settings, and we are poised to support HHA's 775,000 residents with equitable, technology-driven care. This response addresses RFI priorities: Infoway framework alignment, features, PHIPA compliance, implementation, interoperability, security, and pricing, informed by our 40+ years of large-scale deployments. 
+1.	Alignment with Canada Health Infoway's Benefits Evaluation Framework
+Oracle Health drives Infoway-aligned outcomes (Canada Health Infoway, 2012a), reducing adverse events by 40% via robust order entry and decision support that flags illegible prescriptions—directly tackling HHA's challenges. Efficiency KPIs are met through analytics reducing redundancy by 25%, while safety features support readmission reductions and chronic disease management. We provide dashboards for real-time KPI tracking, including staff adoption (target 90% within 6 months) and patient engagement metrics. 
+2.	Product Features and Customization
+Our modular platform includes: 
+•	Clinical Tools: AI-driven insights, e-prescribing, and mobile apps for acute/community/residential care. 
+•	Patient Engagement: Secure portals with virtual care integration, enhancing satisfaction and uptake. 
+•	Training/Change Management: Tailored plans for 18,000 users, including gamified e-learning and clinician-led workshops; HHA resources needed: 15-30 hours/staff and internal champions. 
+•	Workflow Redesign: Flexible tools for HHA's specialized programs, with low-code customization.
+3.	Compliance with PHIPA and Data Security Protocols
+Fully PHIPA/PIPEDA-compliant (HealthIT.gov, 2022), with HITRUST certification, encryption, and audit logs. We offer provincial-specific configurations, including Infoway's framework, ensuring secure data handling for remote populations. 
+4.	Implementation, Migration, and SupportProven in Canadian rollouts (e.g., 500+ sites): 
+•	Pre-Implementation: Data migration via automated tools (95% accuracy from paper), readiness assessments. 
+•	Go-Live: Phased pilots with <1% downtime via redundant clouds; disaster recovery (RTO <2 hours). 
+•	Post-Go-Live: Optimization with AI agents for insights; ongoing support via Oracle's ecosystem.
+5.	Interoperability and IntegrationSeamless via CommonWell Alliance and FHIR/HL7, integrating labs/pharmacy/imaging with 99% success in Canadian HIEs (Canada Health Infoway, 2020). Supports national initiatives like PrescribeIT. 
+6.	Pricing OverviewCustomized for scale: 
+•	Licensing/Implementation: $20M–$30M (includes migration, training). 
+•	Annual Maintenance: $4M–$6M (20% of initial). 
+•	Additional: Modules $500k–$2M; training $1,500/user.
+10-year TCO: $60M–$85M, with 25% cost savings projected.
+We are ready to collaborate further. Sincerely,
+Michael Rivera
+Director, Canadian Health Solutions
+Oracle Health 
+________________________________________
+Vendor Response 3: MEDITECHMEDITECH
+100 Corporate Place
+Rockland, MA 02370, USA
+Email: myhealth.rfi@meditech.com
+Date: October 24, 2025 Attn: MyHealth Procurement Team
+Highland Health Authority
+myhealth.procurement@hha.ca (mailto:myhealth.procurement@hha.ca) 
+Subject: MEDITECH Response to HHA MyHealth RFI – Affordable, Interoperable EHR for Regional Care 
+Dear MyHealth Procurement Team, 
+MEDITECH appreciates the invitation to respond to HHA's RFI for the MyHealth Project. With 55+ years serving Canadian health authorities (e.g., Nova Scotia Health, Niagara Health), our Expanse platform embodies HHA's CARE ethos—courage in cloud innovation, aspiration for user-friendly quality, respect for diverse workflows, and empathy via patient portals. We are committed to equitable care for HHA's 775,000 residents across urban/rural/remote sites. Our response covers Infoway alignment, features, PHIPA compliance, implementation, interoperability, security, and pricing. 
+1.	Alignment with Canada Health Infoway's Benefits Evaluation Framework
+Expanse supports Infoway KPIs (Canada Health Infoway, 2012a) by reducing errors 35% with intuitive interfaces and analytics for efficiency (e.g., 20% workflow gains). Safety features track readmissions/duplicate tests, with dashboards for adoption (85%+ rates). 
+2.	Product Features and CustomizationCloud-native Expanse offers: 
+•	Core Tools: Mobile charting, decision support with SNOMED/ICD-10-CA/LOINC. 
+•	Engagement: Patient portals for virtual care, boosting satisfaction. 
+•	Training/Change: Scalable plans for 18,000 users (e-learning, simulations); HHA: 10-25 hours/staff. 
+•	Customization: Web-based tools for HHA's programs.
+3.	Compliance with PHIPA and Data Security Protocols
+PHIPA/HIPAA-compliant (Adler-Milstein & Huckman, 2013), with encryption, access controls, and audits aligned to Infoway (Canada Health Infoway, 2012c). 
+4.	Implementation, Migration, and Support
+Experienced in regional Canadian deployments: 
+•	Pre-Implementation: Paper migration (AI-assisted scanning), readiness planning. 
+•	Go-Live: Phased with 99.9% uptime; recovery (RTO <6 hours). 
+•	Post: Optimization via Traverse Exchange for HIE.
+5.	Interoperability and Integration
+FHIR/HL7-enabled via Traverse Exchange, integrating labs/pharmacy/imaging; 100+ Canadian hospitals connected (ehr.meditech.com). 
+6.	Pricing Overview
+Value-driven: 
+•	Licensing/Implementation: $7M–$20M (includes migration). 
+•	Annual Maintenance: $1.5M–$4M (20-25% of initial). 
+•	Additional: Training $1,000/user; modules $300k–$1M.
+10-year TCO: $30M–$50M, emphasizing affordability.
+MEDITECH looks forward to partnering. Sincerely,
+Lisa Chen
+VP, Canadian Sales
+MEDITECH
+
+

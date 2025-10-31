@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langgraph
+trulens-eval
+openai
+tavily-python  # NEW: For live search
+python-dotenv
+pandas
