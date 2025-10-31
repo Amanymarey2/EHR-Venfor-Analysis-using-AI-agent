@@ -29,15 +29,25 @@ This project uses **LangGraph**, **LangChain**, and **LLM orchestration** to:
 ## Project Structure
 
 EHR-Vendor-Analysis-AI-Agent/
+
 │
+
 ├── rfi.txt                  # RFI from HTH 105 course
+
 ├── vendor_responses.txt     # Grok-generated vendor replies
+
 ├── helper.py                # Core agent, tools, state
+
 ├── prompts.py               # Planner prompt
+
 ├── workflow_diagram.png     # Visual workflow
+
 ├── HTH105_Final_Report.Rmd  # Final report (R Markdown)
+
 ├── HTH105_Final_Report.pdf  # Rendered PDF (optional)
+
 ├── test_agent.ipynb         # Run & debug notebook
+
 └── README.md                # This file
 
 
